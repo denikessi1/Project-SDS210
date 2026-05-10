@@ -1,10 +1,10 @@
 # Project-SDS210
 ## Preparations
 ### Software
-Install Miniconda https://www.anaconda.com/docs/getting-started/miniconda/install/overview
-Install Python https://www.python.org/downloads/
+Install Miniconda https://www.anaconda.com/docs/getting-started/miniconda/install/overview<br>
+Install Python https://www.python.org/downloads/<br>  
 In VSCode install Python & Jupyter Extension 
-Create vitual environment  >Python: Create Environment¨
+Create vitual environment  >Python: Create Environment
 choose either Quick Create or venv (+ select install Python)
 In Terminal write "python -m pip install geopandas pandas matplotlib"
 Select Jupyterkernel - select your virtual environment 
