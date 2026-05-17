@@ -12,4 +12,4 @@ Select Jupyterkernel - select your virtual environment<br>
 ### Download Data 
 https://data.stadt-zuerich.ch/dataset/geo_zueri_wie_neu as csv<br>
 https://data.stadt-zuerich.ch/dataset/geo_statistische_quartiere as json<br>
-Create a folders called "raw" in the folder "data" 
+Create a folder called "raw" in the folder "data" 
