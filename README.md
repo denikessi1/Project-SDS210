@@ -1,5 +1,5 @@
 # Project-SDS210: ZüriWieNeu Project: Spatial and Temporal Analysis of Citizen Reports in Zurich (2013-2026)
-How have the spatial and temporal patterns of ZüriWieNeu reports changed in Zurich over the course of 2013-2026.
+In this project the spatial and temporal patterns of ZüriWieNeu reports an how they have changed in Zurich over the course of 2013-2026 will be analyzed.
 
 ## Preparations
 ### Software
